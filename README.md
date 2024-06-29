@@ -1,4 +1,4 @@
-# Credit-Score-Grade
+# Credit Score Grade
 
 The provided code is a Java program designed to evaluate a user's credit score and assign a corresponding grade based on predefined ranges. The program utilizes the `Scanner` class to read input from the user and employs conditional statements to determine the credit score grade. Here is a detailed explanation:
 
