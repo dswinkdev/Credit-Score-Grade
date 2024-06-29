@@ -1,6 +1,6 @@
 # Credit Score Grade
 
-This Java program evaluates a user's credit score and assigns a corresponding grade and star rating based on predefined ranges. The program uses the `Scanner` class to read input from the user and employs conditional statements to determine the credit score grade and star rating. Here is a detailed explanation:
+This program evaluates a user's credit score and assigns a corresponding grade and star rating based on predefined ranges. The program uses the `Scanner` class to read input from the user and employs conditional statements to determine the credit score grade and star rating. Here is a detailed explanation:
 
 The program starts by importing the `Scanner` class from the `java.util` package, which is essential for capturing user input from the console. It then defines a class named `CreditScoreGrade` with a static method `space()` that prints an empty line, enhancing the readability of the console output.
 
