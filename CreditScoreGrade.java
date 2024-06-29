@@ -32,7 +32,7 @@ public class CreditScoreGrade {
 			System.out.println("\nCredit Grade: D");
 			System.out.println("\nRange: BELOW AVERAGE / Average / Good / Excellent");
 			System.out.println("\nStar Rating: *");
-			System.out.println("\nYou are " + excellentCredit + " points away from having excellent credit!");
+			System.out.println("\nYou are " + excellentCredit + " points away from having excellent credit.");
 			System.out.println("\nDon't give up now... stay focused!");
 		} 
 		
@@ -40,14 +40,14 @@ public class CreditScoreGrade {
 			System.out.println("\nCredit Grade: C");
 			System.out.println("\nRange: Below Average / AVERAGE / Good / Excellent");
 			System.out.println("\nStar Rating: **");
-			System.out.println("\nYou are " + excellentCredit + " points away from having excellent credit!");
+			System.out.println("\nYou are " + excellentCredit + " points away from having excellent credit.");
 			System.out.println("\nIt's too late to turn back now... keep pushing!");
 		}
 		else if (creditScore >= 701 && creditScore <= 760) {
 			System.out.println("\nCredit Grade: B");
 			System.out.println("\nRange: Below Average / Average / GOOD / Excellent");
 			System.out.println("\nStar Rating: ***");
-			System.out.println("\nYou are only " + excellentCredit + " points away from having excellent credit!");
+			System.out.println("\nYou are only " + excellentCredit + " points away from having excellent credit.");
 			System.out.println("\nYou're almost there... keep going!");
 		} 
 		
